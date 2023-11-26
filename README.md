@@ -59,5 +59,3 @@ To stop the application and remove the containers, use the following command:
 ```bash
 docker-compose down
 ```
-
-This concludes the setup and execution of the Docker-Compose application. Feel free to explore and modify the files based on your specific requirements. If you encounter any issues, check the Docker Compose documentation or the official images on Docker Hub for additional information.
