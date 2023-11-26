@@ -29,7 +29,7 @@ Make sure you have Docker and Docker Compose installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/docker-compose-app.git
+git clone https://github.com/Vladallinn/DockerREADME
 cd docker-compose-app
 ```
 
